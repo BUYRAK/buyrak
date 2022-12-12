@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak Bilici</h1>
 <h3 align="center">I've been developing and working on projects since 2019</h3>
 
-- 🌱 I’m currently learning **python, swift**
-
+- 🌱 I’m currently learning **python
 - 📫 How to reach me **burakbilicii@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
